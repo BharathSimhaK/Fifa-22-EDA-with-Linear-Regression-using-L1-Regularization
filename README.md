@@ -17,11 +17,9 @@ The link to the dataset used is: https://www.kaggle.com/datasets/stefanoleone992
 **Methods Used:** Machine Learning, Data pre-processing, Exploratory Data Analysis.
 
 
-## Architecture 
-![Screenshot](file:///Users/bharathsimha/Downloads/GITAM_PROJECT/D14_MINI_PROJECT/Architecture.png)
 ## Documentation
 
-Here is the link to the documentation
+Here is the link to the ![a](src_code_in_html.html)
 
 
 ## Repository Structure
