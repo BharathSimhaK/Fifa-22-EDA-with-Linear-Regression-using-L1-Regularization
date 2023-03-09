@@ -19,7 +19,7 @@ The link to the dataset used is: https://www.kaggle.com/datasets/stefanoleone992
 
 ## Documentation
 
-Here is the link to the ![a](https://github.com/BharathSimhaK/Fifa-22-EDA-with-Linear-Regression-using-L1-Regularization/blob/main/src_code_in_html.html)
+Here is the link to the ![documentation](https://github.com/BharathSimhaK/Fifa-22-EDA-with-Linear-Regression-using-L1-Regularization/blob/main/src_code_in_html.html)
 
 
 ## Repository Structure
