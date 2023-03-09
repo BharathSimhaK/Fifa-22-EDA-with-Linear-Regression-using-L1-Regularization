@@ -1,6 +1,8 @@
 
 # Fifa 22 EDA with Linear Regression using L1 Regularization (Lasso)
 
+![a](https://github.com/BharathSimhaK/Fifa-22-EDA-with-Linear-Regression-using-L1-Regularization/blob/main/FIFA-22-cover.jpg)
+
 I am a huge football fan and always enjoyed myself playing fifa on my console. I always wondered how the overall ratings of a player are determined and what other factors are they dependent on. So, I am taking this data set to analyze the relation between various factors of a football player with their overall ratings being the dependent variable, and to predict the overall rating using ML models and statistical methods using python.
 
 
